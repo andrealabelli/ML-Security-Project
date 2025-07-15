@@ -1,3 +1,5 @@
+--- HOW TO RUN THE CODE ---
+
 In order to evaluate all the models the following strings should be substituted inside the functions load_model(), in corrispondence of model_name. 
 For example,     model = load_model(model_name="Addepalli2022Efficient_RN18", dataset="cifar10", threat_model="Linf").
 Here the string to insert:
